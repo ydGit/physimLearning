@@ -1,0 +1,2 @@
+* The repository contains various scripts for simulating physical processes using tools such as -- to give a couple of examples -- Qutip, Qiskit (for quantum physics) and Femwell and Devsim.
+The scripts are mostly for my personal learning.
